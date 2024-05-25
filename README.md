@@ -1,37 +1,18 @@
 # Stegano Chat application
-## Submission for AMU battlegrounds
+## Submission for Major Project JUIT
+## Inspired from Alok
 
-<a href="https://stegano-chatapp.vercel.app/">
-    <img alt="Stegano Chat Signup" src="https://www.linkpicture.com/q/P1_2.png" width = "600" height = "700"/>
-</a>
+
 
 ## Getting Started
 
-Here are the list of steps that will get you up and running with the project.
-
-Demo Login
-
-Username: Alok
-
-Password: admin
-
-### Prerequisites
-
-You'll need to clone the repo then install all the dependencies using a package manager.
-
-
-```
-git clone https://github.com/Alok650/Stegano-chatapp
-npm i
-```
+for using the program on a local machine login into Chat Engine and then generate new chat and change the KEY and add the user int he chat.
 
 ## Deployment
 
-You can create a minified version of this app using the following command:
+For reusing the program the program is a local server based project to run it 
 ```
 npm run build
-or 
-Deploy directly on vercel
 ```
 
 ## Built With
@@ -41,8 +22,7 @@ Deploy directly on vercel
 
 
 ## Authors
-1. Alok Prasad - https://alok-prasad-portfolio.web.app/
-2. Eqbal Khan
+1. Shyamansh Sharma
 
 
 Further improvements and suggestions are welcomed.
