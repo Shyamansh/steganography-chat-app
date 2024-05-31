@@ -8,7 +8,7 @@ import IconButton from '@material-ui/core/IconButton';
 import Typography from '@material-ui/core/Typography';
 import CloseIcon from '@material-ui/icons/Close';
 import Slide from '@material-ui/core/Slide';
-import { LockOutlined, UnlockOutlined} from '@ant-design/icons';
+import { LockOutlined} from '@ant-design/icons';
 
 import Encrypt from './../views/Encrypt'
 
