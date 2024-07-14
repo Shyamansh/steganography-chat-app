@@ -4,7 +4,7 @@ import ChatFeed from './../components/ChatFeed';
 import LoginForm from './../components/LoginForm';
 import './Chat.css';
 
-const projectID = '3c6e46c0-439f-42fe-a521-3697c320f8a2';
+const projectID = '1fe988a6-5ebf-4697-bc89-c7215dd65811';
 
 function handleLogout() {
   localStorage.clear();
